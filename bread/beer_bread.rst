@@ -8,8 +8,10 @@ Beer Bread
 - 1 12oz can beer
 - 1/4 cup melted butter
 
-* Preheat oven to 375 degrees
-* Mix dry ingredients and beer
-* Pour melted butter over mixture in loaf pan
-* Bake 1 hour
-* Cool 15 minutes
+::
+
+  Preheat oven to 375 degrees
+  Mix dry ingredients and beer
+  Pour melted butter over mixture in loaf pan
+  Bake 1 hour
+  Cool 15 minutes
