@@ -6,32 +6,35 @@ Naked Samosas
 
 Phase 1 ingredients
 -------------------
-4 medium-sized idaho potatoes
+
+- 4 medium-sized idaho potatoes
 
 Phase 2 ingredients
 -------------------
-2 T olive oil (and extra for brushing)
-1/2 t mustard seeds
-1 medium-sized onion (thinly sliced)
-2 t shredded ginger
-1 garlic clove, minced
-1/2 t cumin seeds
-1 t fennel seeds
-1/2 cup thawed frozen peas
+
+- 2 T olive oil (and extra for brushing)
+- 1/2 t mustard seeds
+- 1 medium-sized onion (thinly sliced)
+- 2 t shredded ginger
+- 1 garlic clove, minced
+- 1/2 t cumin seeds
+- 1 t fennel seeds
+- 1/2 cup thawed frozen peas
 
 Phase 3 ingredients
 -------------------
-1/4 t ground turmeric
-2 t sea salt
-1/4 t chile powder
-1/2 t garam masala
+
+- 1/4 t ground turmeric
+- 2 t sea salt
+- 1/4 t chile powder
+- 1/2 t garam masala
 
 Garnish
 -------
-mango chutney
-plain yogurt
-cilantro
 
+- mango chutney
+- plain yogurt
+- cilantro
 
 Phase 1
 -------
